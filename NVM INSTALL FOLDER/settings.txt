@@ -1,2 +1,0 @@
-root: C:\Users\DELMOTTE\nvm install
-path: C:\Program Files\nodejs
